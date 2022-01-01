@@ -14,4 +14,6 @@ $ git commit -m “Added this file AWESOME!”
 	Fully commits with a message
 $ git log for history
 
-
+$ git push
+$ git push origin main(or other branch name)
+	add, commit your message, push to GitHub
