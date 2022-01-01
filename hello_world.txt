@@ -1,0 +1,17 @@
+Here's some placeholder text:
+
+# Git Commands
+
+“$” is just like a starting line for code, don’t include!
+
+$ git clone sshURL
+$ git remote -v (Tells you the URL)
+$ git status (Shows untracked/tracked files:)
+$ git add fileName (Adds file to staging area)
+$ git add . Will add all files in current/prior directory
+	Good to do git status to see if red -> green
+$ git commit -m “Added this file AWESOME!”
+	Fully commits with a message
+$ git log for history
+
+
